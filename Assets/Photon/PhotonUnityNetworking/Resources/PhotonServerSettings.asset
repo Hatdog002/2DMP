@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: 940662ec-1704-4c6c-a799-4929978bf1d1
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: hk
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - InstantiatePlayer
+  - FlipCharacter
+  - GameOver
+  - SendGameOver
+  - PlayAnimation
+  - SetToOpen
+  - isOpen
+  - RPC_SetRemoteAnimationState
+  - RPC_SetAnimatorBool
+  - AnimateMeRPC
+  - AnimateMeRPCDoor
+  - AnimateMeRPCDoor2
+  - Player1
+  - PlayerEnteredTriggerZone
+  - DestroyObject
+  - Level2
+  - toDestroy
+  - AnimateMeRPCDoorLevel1
+  - AnimateMeRPCDoorPlatform
+  - toDestroyLevel1
+  - AnimateMeRPCLevel2Laser
+  - AnimateMeRPCLevel2Laser2
+  - AnimateMeRPCLevel2Laser3
+  - AnimateMeRPCLevel2Laser4
+  - toDestroyLevel2
+  - AnimateMeRPCLevel4Door
+  - AnimateMeRPCLevel4Door2
+  - AnimateMeRPCLevel4Door3
+  - AnimateMeRPCLevel4Door4
+  - toDestroyLevel3
+  - AnimateMeRPCLevel5Door1
+  - AnimateMeRPCLevel5Door2
+  - AnimateMeRPCLevel5Door3
+  - toDestroyLevel4
+  - Level3
+  - Level4
+  - Level5
+  - LevelWin
+  DisableAutoOpenWizard: 1
+  ShowSettings: 0
+  DevRegionSetOnce: 1

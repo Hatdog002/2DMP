@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Script/Scenes/HideAndSeek_Lobby.unity
+    guid: 697c5291c0cc585469b60d89cec559cf
+  - enabled: 1
+    path: Assets/Script/Scenes/2DPlatformLevel1.unity
+    guid: 565a13b0abd3be64487aad3659ee599e
+  - enabled: 1
+    path: Assets/Script/Scenes/2DPlatformLevel2.unity
+    guid: 1dece419007a96b44b48ae69f4620205
+  - enabled: 1
+    path: Assets/Script/Scenes/2DPlatformLevel3.unity
+    guid: 89b1e664249e9f64dbad8948ca75fcb4
+  - enabled: 1
+    path: Assets/Script/Scenes/2DPlatformLevel4.unity
+    guid: 9ed7b6f5403dfae45a3089b4137cd02d
+  - enabled: 1
+    path: Assets/Script/Scenes/2DPlatformLevel5.unity
+    guid: 118991b80960dfd4e9cac4778958cf57
+  - enabled: 1
+    path: Assets/Script/Scenes/2DPlatformLevel6.unity
+    guid: cab4e5ae30088104eb78f24b12c4e1a1
+  m_configObjects: {}
